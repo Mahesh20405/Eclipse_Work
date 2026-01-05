@@ -6,6 +6,6 @@ public class UserValidation {
 		return false;
 	}
 	public static void amin(String[] args) {
-		String name = "A";
+		String name = "Hello";
 	}
 }
